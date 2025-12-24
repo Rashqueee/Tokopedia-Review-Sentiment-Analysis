@@ -1,0 +1,15 @@
+selenium
+pandas
+webdriver-manager
+matplotlib
+collections
+bs4
+re
+sklearn
+nltk
+seaborn
+numpy
+Sastrawi
+wordcloud
+imbalanced-learn
+joblib
